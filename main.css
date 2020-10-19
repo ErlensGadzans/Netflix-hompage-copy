@@ -12,3 +12,7 @@ h4 {
 footer {
   color: gray;
 }
+
+.text {
+  font-family: "Open Sans", sans-serif;
+}
